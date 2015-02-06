@@ -1,10 +1,14 @@
+body {
+  background-color: #c0a16b; }
+
 h3 {
-  font-weight: bold; }
+  font-weight: bold;
+  margin: 15px 0; }
 
 h4 {
-  background-color: #ccc;
   height: 26px;
-  line-height: 26px; }
+  line-height: 26px;
+  margin-bottom: 5px; }
 
 img {
   border: 1px solid #ccc;
@@ -13,11 +17,14 @@ img {
 .form-group {
   margin: 10px 0; }
   .form-group label {
-    padding-top: 5px; }
-  .form-group span {
-    color: red; }
+    padding-top: 5px;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 0; }
+    .form-group label span {
+      color: red; }
 
 button {
-  margin-top: 10px; }
+  margin-top: 20px; }
 
 /*# sourceMappingURL=position.css.map */
