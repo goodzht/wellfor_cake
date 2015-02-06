@@ -1,0 +1,23 @@
+h3 {
+  font-weight: bold; }
+
+h4 {
+  background-color: #ccc;
+  height: 26px;
+  line-height: 26px; }
+
+img {
+  border: 1px solid #ccc;
+  padding: 3px; }
+
+.form-group {
+  margin: 10px 0; }
+  .form-group label {
+    padding-top: 5px; }
+  .form-group span {
+    color: red; }
+
+button {
+  margin-top: 10px; }
+
+/*# sourceMappingURL=position.css.map */
